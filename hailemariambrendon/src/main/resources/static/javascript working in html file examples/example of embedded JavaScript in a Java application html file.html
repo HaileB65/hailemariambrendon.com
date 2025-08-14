@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Java Web App with JavaScript</title>
     <!-- Link to your external JavaScript file -->
-    <script src="js/script.js"></script>
+    <script src="../js/script.js"></script>
 </head>
 <body>
 
@@ -13,7 +13,9 @@
 
     <script>
         // Calls a function from script.js
-        displayMessage();
+        displayMessage(); // This is embedded javascript vs having the Javascript
+        code in the separate script.js file. The script.js file is still referenced
+         in the beginning of the html document.
     </script>
     
 </body>
