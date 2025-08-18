@@ -1,3 +1,1 @@
 # hailemariambrendon.com
-
-![alt text]()
