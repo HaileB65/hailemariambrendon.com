@@ -4,6 +4,5 @@ hailemariambrendon.com uses Java and Spring on the backend to create the hailema
 brendon website homepage.
 
 ![Home Page](images/hailemariambrendon hompage.jpg)
-![My Current Projects Page](images/hailemariambrendon hompage.jpg) 
 
-fdsa
+![My Current Projects Page](images/hailemariambrendon hompage.jpg)
